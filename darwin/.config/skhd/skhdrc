@@ -1,0 +1,2 @@
+cmd + lalt - delete : open -a /Applications/Safari.app/Contents/MacOS/Safari
+cmd + lalt - return : open -a /Applications/wezterm.app

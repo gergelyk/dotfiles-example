@@ -1,0 +1,6 @@
+presets:
+  linux:
+    - unix
+  darwin:
+    - unix
+    - darwin
